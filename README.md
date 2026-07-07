@@ -191,6 +191,8 @@ Callback functions
 Higher-order functions
 Recursion
 Closures
+
+
 Module 4 – Objects
 Creating objects
 Properties
@@ -201,6 +203,9 @@ Spread operator
 this
 Object methods
 Object iteration
+
+
+
 Module 5 – Arrays
 Creating arrays
 Indexing
@@ -223,12 +228,18 @@ sort
 flat
 flatMap
 Module 6 – Strings
+
+
+
 Common string methods
 Searching
 Replacing
 Splitting
 Joining
 Regular Expressions (basics)
+
+
+
 Module 7 – Scope
 Global scope
 Local scope
@@ -236,12 +247,17 @@ Block scope
 Lexical scope
 Hoisting
 Temporal Dead Zone
+
+
 Module 8 – Advanced Functions
 Closures
 Currying
 Function composition
 IIFE
 Pure functions
+
+
+
 Module 9 – Object-Oriented JavaScript
 Constructor functions
 Classes
@@ -251,12 +267,16 @@ Encapsulation
 Polymorphism
 Static methods
 Getters & setters
+
+
 Module 10 – Error Handling
 try
 catch
 finally
 throw
 Custom Errors
+
+
 Module 11 – Asynchronous JavaScript
 Call Stack
 Event Loop
@@ -269,11 +289,15 @@ async
 await
 fetch
 AbortController
+
+
 Module 12 – Modules
 Import
 Export
 Named exports
 Default exports
+
+
 Module 13 – Browser APIs
 DOM
 Selecting elements
@@ -286,6 +310,7 @@ Timers
 
 (You don't need to master every browser API if your main goal is backend, but understanding the basics is helpful.)
 
+
 Module 14 – Node.js Basics
 Runtime
 npm
@@ -295,6 +320,7 @@ Path
 OS module
 Process
 Environment Variables
+
 Module 15 – HTTP
 HTTP
 HTTPS
@@ -308,6 +334,7 @@ POST
 PUT
 PATCH
 DELETE
+
 Module 16 – Backend with Express
 Express
 Routing
@@ -329,6 +356,7 @@ Transactions
 Joins
 Views
 Stored Procedures (optional)
+
 Module 18 – Mission Planning Concepts
 
 Now connect everything to your project:
